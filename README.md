@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=mchlbowyer&theme=default)](https://github.com/lodesousa/)
+[![card](https://github-readme-stats.vercel.app/api?username=mchlbowyer&theme=default)](https://github.com/mchlbowyer/)
 
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS"/></code>
