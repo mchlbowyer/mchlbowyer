@@ -1,6 +1,4 @@
 [![card](https://github-readme-stats.vercel.app/api?username=mchlbowyer&theme=default)](https://github.com/lodesousa/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlbowyer&hide=html&layout=compact=true&theme=default)](https://github.com/mchlbowyer/)
-
 
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS"/></code>
@@ -15,6 +13,8 @@
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" alt="C#"/></code>
+
+<!-- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlbowyer&hide=html&layout=compact=true&theme=default)](https://github.com/mchlbowyer/) -->
 
 <!--
 **mchlbowyer/mchlbowyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
